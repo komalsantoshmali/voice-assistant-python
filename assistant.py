@@ -17,7 +17,7 @@ def read_news():
     speak("Artificial intelligence is growing very fast")
 
 def main():
-    speak("Hello Komal, how can I help you?")
+    speak("Hello Friends, how can I help you?")
     
     while True:
         command = input("Type command (news / reminder / exit): ").lower()
